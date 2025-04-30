@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data files (consider which ones you want to include/exclude)
+/data/logs/
+/data/output/
+/data/transcripts/
+*.csv
+*.xlsx
+*.zip
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Development files
+.DS_Store
+.idea/
+.vs/
+.vscode/

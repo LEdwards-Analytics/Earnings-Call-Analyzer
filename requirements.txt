@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+yfinance
+pytz
+ipython
+jupyter
