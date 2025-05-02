@@ -1,10 +1,12 @@
 # Earnings Call Analyzer
 
-A tool for analyzing sentiment in earnings call transcripts and correlating with stock performance.
+A pipeline for analyzing earnings call transcripts and surfacing sentiment trends, financial tone, and potential links to stock performance.
 
 ## Overview
 
-This project analyzes earnings call transcripts for major companies, extracts sentiment information, and correlates it with stock price movements.
+This project collects and processes earnings call transcripts from major companies, applies sentiment and language analysis, and correlates the results with stock movements over time.
+
+It’s modular and designed to be extensible, with plans to integrate Power BI dashboards and more advanced NLP models for deeper insights.
 
 ## Project Structure
 
